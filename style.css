@@ -231,7 +231,7 @@ button {
 .header_section {
     width: 100%;
     float: left;
-    background-image: url(../images/banner-bg.png);
+    background-image: url(..banner-bg.png);
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -755,7 +755,7 @@ button {
 
 .blog_img {
     width: 100%;
-    background-image: url(../images/blog-img1.png);
+    background-image: url(../blog-img1.png);
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
